@@ -1,0 +1,2 @@
+https://huggingface.co/datasets/pandalla/Machine_Mindset_MBTI_dataset
+https://www.kaggle.com/datasets/datasnaek/mbti-type
